@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sathish Kumar
-- 👀 I’m interested in ...blockchain
+- 👀 I’m interested in ...full-stack
 - 🌱 I’m currently learning ...b.tech cse
-- 💞️ I’m looking to collaborate on ...blockchain
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sathishkumar4118gmail.com
 
 <!---
